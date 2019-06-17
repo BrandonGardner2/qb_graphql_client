@@ -1,0 +1,9 @@
+.markets-wrapper h3 {
+  margin-bottom: 5px;
+}
+
+.markets-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

@@ -1,0 +1,22 @@
+.market-card {
+  width: 40%;
+  margin: 0 0.2rem 20px 0.2rem;
+}
+
+.market-card ul {
+  list-style: none;
+  padding: 0;
+}
+
+.market-card ul li {
+  margin-bottom: 5px;
+}
+
+.market-card ul li label {
+  font-weight: bold;
+  margin-right: 0.2rem;
+}
+
+.market-card button {
+  margin-right: 0.75rem;
+}

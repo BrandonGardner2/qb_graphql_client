@@ -1,0 +1,21 @@
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.main {
+  margin-top: 25px;
+}
+
+.card {
+  box-shadow: 5px 5px 10px 0px rgba(0, 0, 0, 0.5);
+  padding: 0 1rem 15px 1rem;
+}
+
+button {
+  border: none;
+  outline: 2px solid darkgray;
+  border-radius: 0;
+  font-size: 0.6rem;
+  padding: 4px;
+}

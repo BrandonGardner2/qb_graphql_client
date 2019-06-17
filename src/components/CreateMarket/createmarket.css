@@ -1,0 +1,14 @@
+.create-market_wrapper {
+  border-bottom: 1px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.create-market_wrapper label {
+  font-weight: bold;
+  margin-right: 1rem;
+}
+
+.create-market_wrapper input {
+  margin-right: 1rem;
+}
